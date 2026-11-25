@@ -1,0 +1,9 @@
+# Test tooling (genlayer-test 0.30.0 + genlayer-py 0.19.0, Consensus v0.6 line).
+# Install into the project venv: python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+genlayer-py==0.19.0
+genlayer-test[sim]==0.30.0
+pytest==9.2.0
+requests==2.32.2
+python-dotenv==1.0.1
+eth-account==0.13.3
+eth-utils==5.0.0

@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "network": "localnet",
+  "measuredAt": "2026-11-25T03:30:00Z",
+  "chainId": 61127,
+  "deploy": {
+    "leaderTimeunitsAllocation": "100",
+    "validatorTimeunitsAllocation": "200",
+    "executionBudgetPerRound": "788520000000000",
+    "totalMessageFees": "0",
+    "rotationsPerRound": "0"
+  },
+  "methods": {
+    "assess": {
+      "leaderTimeunitsAllocation": "0",
+      "validatorTimeunitsAllocation": "0",
+      "executionBudgetPerRound": "0",
+      "totalMessageFees": "0",
+      "rotationsPerRound": "0"
+    },
+    "close_job": {
+      "leaderTimeunitsAllocation": "0",
+      "validatorTimeunitsAllocation": "0",
+      "executionBudgetPerRound": "0",
+      "totalMessageFees": "0",
+      "rotationsPerRound": "0"
+    },
+    "register_job": {
+      "leaderTimeunitsAllocation": "0",
+      "validatorTimeunitsAllocation": "0",
+      "executionBudgetPerRound": "0",
+      "totalMessageFees": "0",
+      "rotationsPerRound": "0"
+    },
+    "withdraw_job": {
+      "leaderTimeunitsAllocation": "0",
+      "validatorTimeunitsAllocation": "0",
+      "executionBudgetPerRound": "0",
+      "totalMessageFees": "0",
+      "rotationsPerRound": "0"
+    }
+  }
+}
